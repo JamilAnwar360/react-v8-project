@@ -14,3 +14,14 @@ Shelter Collaboration: The application collaborates with local shelters to displ
 User Accounts: Users can create accounts to save their favorite pets, receive notifications about new listings, and share their adoption experiences.
 Community Resources: AdopMe offers educational resources about pet care, adoption tips, and information on responsible pet ownership to empower adopters.
 With a mission to reduce the number of animals in shelters and promote responsible pet ownership, AdopMe aims to create a compassionate community where every pet finds a home.
+
+Regards,
+
+
+Here's an enhanced and visually appealing CV for Jamil Anwar that emphasizes your skills and experiences while maintaining a professional format. This version includes design elements to make it more attractive:
+
+Jamil Anwar
+Frontend Developer
+📧 jamilanwar360@gmail.com 
+
+
