@@ -21,7 +21,7 @@ Regards,
 Here's an enhanced and visually appealing CV for Jamil Anwar that emphasizes your skills and experiences while maintaining a professional format. This version includes design elements to make it more attractive:
 
 Jamil Anwar
-Frontend Developer
+(Frontend Developer)
 📧 jamilanwar360@gmail.com 
 
 
